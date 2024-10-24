@@ -21,7 +21,7 @@ I am a Software Engineering student from Vietnam.
 
 ### 🛠 &nbsp;My Tech Stack:
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontWeight=normal&lineCount=1&theme=catppuccin_frappe&hideTitle=true&bg=%23303446&badge=%23292c3c&border=%23737994&titleColor=%2381c8be&line1=blazor%2CBlazor%2C512BD4%3B.net%2C.NET%2C512BD4%3Bpostgresql%2CPostgreSQL%2C4169E1%3B)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontWeight=normal&lineCount=1&theme=catppuccin_frappe&hideTitle=true&bg=%23303446&badge=%23292c3c&border=%23737994&titleColor=%2381c8be&line1=blazor%2CBlazor%2C512BD4%3B.net%2C.NET%2C512BD4%3Bpostgresql%2CPostgreSQL%2C4169E1%3B&width=500)
 
 ---
 
