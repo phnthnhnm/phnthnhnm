@@ -21,14 +21,14 @@ I am a Software Engineering student from Vietnam.
 
 ### 🛠 &nbsp;My Tech Stack:
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontWeight=normal&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=blazor%2CBlazor%2C512BD4%3B.net%2C.NET%2C512BD4%3Bpostgresql%2CPostgreSQL%2C4169E1%3B&width=500&hideTitle=true)
+![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?fontWeight=normal&lineCount=1&theme=catppuccin_mocha&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=blazor%2CBlazor%2C512BD4%3B.net%2C.NET%2C512BD4%3Bpostgresql%2CPostgreSQL%2C4169E1%3B&width=408&hideTitle=true)
 
 ---
 
 ### 🔥 &nbsp; My Stats:
 
-![phnthnhnm's GitHub stats](https://github-readme-stats-phi-olive-19.vercel.app/api?username=phnthnhnm&show_icons=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha&card_width=500)
+![phnthnhnm's GitHub stats](https://github-readme-stats-phi-olive-19.vercel.app/api?username=phnthnhnm&show_icons=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha&card_width=408&hide_rank=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=phnthnhnm&theme=catppuccin-mocha&card_width=500&card_height=200)
+![GitHub Streak](https://streak-stats.demolab.com?user=phnthnhnm&theme=catppuccin-mocha&card_width=408&card_height=200)
 
-![Top Langs](https://github-readme-stats-phi-olive-19.vercel.app/api/top-langs/?username=phnthnhnm&layout=compact&theme=catppuccin_mocha&card_width=500)
+![Top Langs](https://github-readme-stats-phi-olive-19.vercel.app/api/top-langs/?username=phnthnhnm&layout=compact&theme=catppuccin_mocha&card_width=408)
