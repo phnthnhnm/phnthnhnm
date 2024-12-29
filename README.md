@@ -12,10 +12,8 @@
 
 I am a Software Engineering student from Vietnam.
 
-- 🔭 Currently working on: A full-stack web application using React and ASP.NET for my sophomore project
 - 🌱 Exploring: Web/Desktop application frameworks
 - ⚡ In my free time: Contributing to niche open-source apps and building personal side projects
-- 📫 How to reach me: &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](phnthnhnm0612@gmail.com)
 
 ---
 
