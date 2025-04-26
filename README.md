@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://www.buymeacoffee.com/phnthnhnm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=phnthnhnm&style=flat-square&color=blue" alt=""></p>
+<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank"><img src="https://komarev.com/ghpvc/?username=phnthnhnm&style=flat-square&color=blue" alt=""></a></p>
 
 ### 👨‍💻 &nbsp;About Me:
 
