@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=phnthnhnm&style=flat-square&color=blue" alt=""></p>
 
-### :man_technologist: &nbsp;About Me:
+### 👨‍💻 &nbsp;About Me:
 
 I am a Software Engineering student from Vietnam.
 
@@ -13,7 +13,7 @@ I am a Software Engineering student from Vietnam.
 
 ---
 
-### 🔥 &nbsp; My Stats:
+### 🔥 &nbsp;My Stats:
 
 ![phnthnhnm's GitHub stats](https://github-readme-stats-phi-olive-19.vercel.app/api?username=phnthnhnm&show_icons=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=catppuccin_mocha&rank_icon=github)
 ![Top Langs](https://github-readme-stats-phi-olive-19.vercel.app/api/top-langs/?username=phnthnhnm&layout=compact&theme=catppuccin_mocha)
