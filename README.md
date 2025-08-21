@@ -8,8 +8,13 @@
 
 I am a Software Engineering student from Vietnam.
 
-- 🌱 Exploring: Web/Desktop application frameworks
-- ⚡ In my free time: Contributing to niche open-source apps and building personal side projects
+- 🌱 Exploring: Web/Desktop application frameworks.
+- ⚡ In my free time: Contributing to niche open-source apps and building personal side projects.
+
+I'm also on [boot.dev](https://www.boot.dev/u/luminous)!
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/4a8c2395-9c52-4a15-83a6-2769a850fe54/thumbnail" >
+</p>
 
 ---
 
