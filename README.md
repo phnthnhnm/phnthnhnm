@@ -1,11 +1,9 @@
 ## 👨‍💻 &nbsp;About Me:
 
-I am a Software Engineering student from Vietnam.
+Recent software engineering graduate specializing in backend development.
 
 - 🌱 Exploring: Web/Desktop application frameworks.
 - ⚡ In my free time: Contributing to niche open-source apps and building personal side projects.
-
----
 
 ## 🔥 &nbsp;My Stats:
 
